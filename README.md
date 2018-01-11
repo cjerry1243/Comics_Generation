@@ -1,5 +1,5 @@
 # Comics Generation
-conditional GAN for comics generation
+Conditional GAN for comics generation
 
 ## Requirements
 python 3
