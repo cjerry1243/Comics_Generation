@@ -32,7 +32,7 @@ Condition2: black hair blue eyes
 
 Condition3: red hair green eyes
 
-![](https://github.com/cjerry1243/Comics_Generation/master/images/sample_testing_img.png)
+![](https://raw.githubusercontent.com/cjerry1243/Comics_Generation/master/images/sample_testing_img.png)
 
 (Each condition generates 5 images.)
 
