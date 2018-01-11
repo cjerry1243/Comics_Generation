@@ -26,21 +26,19 @@ Images will be generated in the samples/ directory based on conditions in sample
 You can change the tags based on the above to see the generated images.
 
 ## Demo
-Condition1: blue hair red eyes
+Condition: 
+1, blue hair red eyes
 
-Condition2: black hair blue eyes
+2, black hair blue eyes
 
-Condition3: red hair green eyes
+3, red hair green eyes
 
-![Condition1: blue hair red eyes
-
-Condition2: black hair blue eyes
-
-Condition3: red hair green eyes](https://raw.githubusercontent.com/cjerry1243/Comics_Generation/master/images/sample_testing_img.png)
+![](https://raw.githubusercontent.com/cjerry1243/Comics_Generation/master/images/sample_testing_img.png)
 
 (Each condition generates 5 images.)
 
-## Training Progress
+## Training Progress 
+About 370000 iterations
 
 ![](https://raw.githubusercontent.com/cjerry1243/Comics_Generation/master/images/progress1.png)
 
