@@ -32,19 +32,23 @@ Condition2: black hair blue eyes
 
 Condition3: red hair green eyes
 
-![](https://raw.githubusercontent.com/cjerry1243/Comics_Generation/master/images/sample_testing_img.png)
+![Condition1: blue hair red eyes
+
+Condition2: black hair blue eyes
+
+Condition3: red hair green eyes](https://raw.githubusercontent.com/cjerry1243/Comics_Generation/master/images/sample_testing_img.png)
 
 (Each condition generates 5 images.)
 
 ## Training Progress
 
-![alt text](https://github.com/cjerry1243/Comics_Generation/images/progress1.png)
+![](https://raw.githubusercontent.com/cjerry1243/Comics_Generation/master/images/progress1.png)
 
-![alt text](https://github.com/cjerry1243/Comics_Generation/images/progress2.png)
+![](https://raw.githubusercontent.com/cjerry1243/Comics_Generation/master/images/progress2.png)
 
-![alt text](https://github.com/cjerry1243/Comics_Generation/images/progress3.png)
+![](https://raw.githubusercontent.com/cjerry1243/Comics_Generation/master/images/progress3.png)
 
-![alt text](https://github.com/cjerry1243/Comics_Generation/images/progress4.png)
+![](https://raw.githubusercontent.com/cjerry1243/Comics_Generation/master/images/progress4.png)
 
 # Comics Generation without conditions
 GAN for comics generation is in z2img/ directory.
