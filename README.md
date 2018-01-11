@@ -17,7 +17,6 @@ Images will be generated in the samples/ directory based on conditions in sample
 
 ## Available tags
 [color hair]:
-
 'orange hair', 'white hair', 'aqua hair', 'gray hair', 'green hair', 'red hair', 'purple hair', 'pink hair', 'blue hair', 'black hair', 'brown hair', 'blonde hair'.
 
 [color eyes]: 
