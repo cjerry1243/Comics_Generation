@@ -27,6 +27,7 @@ You can change the tags based on the above to see the generated images.
 
 ## Demo
 Condition: 
+
 1, blue hair red eyes
 
 2, black hair blue eyes
